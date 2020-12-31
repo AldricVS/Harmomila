@@ -1,0 +1,37 @@
+[Fri May 15 15:55:04.330656 2020] [fcgid:info] [pid 2828586:tid 140438302651520] mod_fcgid: Process manager 2828586 started
+[Fri May 15 15:55:04.331532 2020] [mpm_event:notice] [pid 2828563:tid 140438302651520] AH00489: Apache/2.4.39 (Unix) mod_fcgid/2.3.9 configured -- resuming normal operations
+[Fri May 15 15:55:04.331588 2020] [mpm_event:info] [pid 2828563:tid 140438302651520] AH00490: Server built: Nov 27 2019 14:49:12
+[Fri May 15 15:55:04.331594 2020] [core:notice] [pid 2828563:tid 140438302651520] AH00094: Command line: '/usr/alwaysdata/apache/2.4.39/bin/apache -f /home/harmomila/admin/config/apache/apache.conf -D FOREGROUND'
+[Fri May 15 15:55:04.561816 2020] [fcgid:info] [pid 2828586:tid 140438302651520] mod_fcgid: server harmomila.alwaysdata.net:/usr/bin/env(2828864) started
+[Fri May 15 15:55:05.614020 2020] [core:info] [pid 2828587:tid 140438166034176] [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH00128: File does not exist: /home/harmomila/www/favicon.ico, referer: http://harmomila.alwaysdata.net/
+[Fri May 15 16:25:38.152338 2020] [core:error] [pid 2828563:tid 140438302651520] (21)Is a directory: AH00095: failed to remove PID file /home/harmomila/admin/config/apache/
+[Fri May 15 16:25:38.152357 2020] [mpm_event:notice] [pid 2828563:tid 140438302651520] AH00491: caught SIGTERM, shutting down
+[Fri May 15 16:25:38.228663 2020] [fcgid:info] [pid 2828586:tid 140438302651520] mod_fcgid: process /usr/bin/env(2828864) exit(shutting down), terminated by calling exit(), return code: 255
+[Fri May 15 16:25:38.228712 2020] [fcgid:info] [pid 2828586:tid 140438302651520] mod_fcgid: Process manager 2828586 stopped
+[Fri May 15 16:50:13.069252 2020] [fcgid:info] [pid 3073001:tid 140374501606528] mod_fcgid: Process manager 3073001 started
+[Fri May 15 16:50:13.070130 2020] [mpm_event:notice] [pid 3072993:tid 140374501606528] AH00489: Apache/2.4.39 (Unix) mod_fcgid/2.3.9 configured -- resuming normal operations
+[Fri May 15 16:50:13.070183 2020] [mpm_event:info] [pid 3072993:tid 140374501606528] AH00490: Server built: Nov 27 2019 14:49:12
+[Fri May 15 16:50:13.070195 2020] [core:notice] [pid 3072993:tid 140374501606528] AH00094: Command line: '/usr/alwaysdata/apache/2.4.39/bin/apache -f /home/harmomila/admin/config/apache/apache.conf -D FOREGROUND'
+[Fri May 15 16:50:13.303721 2020] [fcgid:info] [pid 3073001:tid 140374501606528] mod_fcgid: server harmomila.alwaysdata.net:/usr/bin/env(3073265) started
+[Fri May 15 16:50:13.608568 2020] [core:info] [pid 3073002:tid 140374353897216] [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH00128: File does not exist: /home/harmomila/www/favicon.ico, referer: http://harmomila.alwaysdata.net/
+[Fri May 15 17:20:45.997197 2020] [core:info] [pid 3073002:tid 140366896289536] [client 2a01:e34:ee91:89a0:6873:c88a:52ea:5f52:0] AH00128: File does not exist: /home/harmomila/www/favicon.ico, referer: http://harmomila.alwaysdata.net/index?page=1
+[Fri May 15 17:20:52.431451 2020] [authn_file:error] [pid 3073002:tid 140366845933312] (2)No such file or directory: [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/C:\\wamp64\\www\\projets\\Harmomilinh\xc3\xa3.fr\\admin\\.htpasswd
+[Fri May 15 17:20:55.686762 2020] [authn_file:error] [pid 3073002:tid 140366795577088] (2)No such file or directory: [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/C:\\wamp64\\www\\projets\\Harmomilinh\xc3\xa3.fr\\admin\\.htpasswd
+[Fri May 15 17:21:02.357457 2020] [authn_file:error] [pid 3073002:tid 140366762006272] (2)No such file or directory: [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/C:\\wamp64\\www\\projets\\Harmomilinh\xc3\xa3.fr\\admin\\.htpasswd
+[Fri May 15 17:21:51.062297 2020] [authn_file:error] [pid 3073002:tid 140366669686528] (2)No such file or directory: [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/C:\\wamp64\\www\\projets\\Harmomilinh\xc3\xa3.fr\\admin\\.htpasswd
+[Fri May 15 17:22:22.879908 2020] [authn_file:error] [pid 3073002:tid 140366552188672] (2)No such file or directory: [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/C:\\wamp64\\www\\projets\\Harmomilinh\xc3\xa3.fr\\admin\\.htpasswd
+[Fri May 15 17:22:23.201447 2020] [authn_file:error] [pid 3073002:tid 140366518617856] (2)No such file or directory: [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/C:\\wamp64\\www\\projets\\Harmomilinh\xc3\xa3.fr\\admin\\.htpasswd
+[Fri May 15 17:22:39.021715 2020] [core:info] [pid 3073002:tid 140366443083520] [client 2a01:cb00:37d:c700:4002:72ba:35f3:d2e0:0] AH00128: File does not exist: /home/harmomila/www/favicon.ico, referer: http://harmomila.alwaysdata.net/index?page=1
+[Fri May 15 17:53:10.136015 2020] [core:error] [pid 3072993:tid 140374501606528] (21)Is a directory: AH00095: failed to remove PID file /home/harmomila/admin/config/apache/
+[Fri May 15 17:53:10.136032 2020] [mpm_event:notice] [pid 3072993:tid 140374501606528] AH00491: caught SIGTERM, shutting down
+[Fri May 15 17:53:10.212624 2020] [fcgid:info] [pid 3073001:tid 140374501606528] mod_fcgid: process /usr/bin/env(3073265) exit(shutting down), terminated by calling exit(), return code: 255
+[Fri May 15 17:53:10.212649 2020] [fcgid:info] [pid 3073001:tid 140374501606528] mod_fcgid: Process manager 3073001 stopped
+[Fri May 15 23:25:08.468375 2020] [fcgid:info] [pid 667310:tid 140191691822208] mod_fcgid: Process manager 667310 started
+[Fri May 15 23:25:08.469282 2020] [mpm_event:notice] [pid 667302:tid 140191691822208] AH00489: Apache/2.4.39 (Unix) mod_fcgid/2.3.9 configured -- resuming normal operations
+[Fri May 15 23:25:08.469331 2020] [mpm_event:info] [pid 667302:tid 140191691822208] AH00490: Server built: Nov 27 2019 14:49:12
+[Fri May 15 23:25:08.469338 2020] [core:notice] [pid 667302:tid 140191691822208] AH00094: Command line: '/usr/alwaysdata/apache/2.4.39/bin/apache -f /home/harmomila/admin/config/apache/apache.conf -D FOREGROUND'
+[Fri May 15 23:25:08.702548 2020] [fcgid:info] [pid 667310:tid 140191691822208] mod_fcgid: server harmomila.alwaysdata.net:/usr/bin/env(667584) started
+[Fri May 15 23:25:09.322859 2020] [core:info] [pid 667311:tid 140191657465600] [client 2a01:cb00:37d:c700:5877:908f:dbf5:f7db:0] AH00128: File does not exist: /home/harmomila/www/favicon.ico, referer: http://harmomila.alwaysdata.net/index?page=1
+[Fri May 15 23:27:13.554643 2020] [authn_file:error] [pid 667311:tid 140191062771456] (2)No such file or directory: [client 2a01:cb00:37d:c700:5877:908f:dbf5:f7db:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/http:/harmomila.alwaysdata.net/admin/.htpasswd
+[Fri May 15 23:28:25.106674 2020] [authn_file:error] [pid 667311:tid 140191045986048] (2)No such file or directory: [client 2a01:cb00:37d:c700:5877:908f:dbf5:f7db:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/http:/harmomila.alwaysdata.net/admin/.htpasswd
+[Fri May 15 23:28:58.919808 2020] [authn_file:error] [pid 667311:tid 140189594801920] (2)No such file or directory: [client 2a01:cb00:37d:c700:5877:908f:dbf5:f7db:0] AH01620: Could not open password file: /home/harmomila/admin/config/apache/http:\\harmomila.alwaysdata.net\\admin\\.htpasswd
