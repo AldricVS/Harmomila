@@ -1,7 +1,7 @@
 <?php 
     function bdd(){
         try{
-            $bdd = new PDO("mysql:dbname=harmomila_blog;host=mysql-harmomila.alwaysdata.net", "harmomila", 'fgh214#aqer');
+            $bdd = new PDO("db", "username", 'password');
         } catch (PDOException $e){
             echo 'Connexion au serveur échouée :' . $e->getMessage();
         }
