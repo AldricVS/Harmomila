@@ -35,8 +35,8 @@
 
         $host = "smtp.office365.com";
         $username = "aldric.vitali@outlook.fr";
-		$password = "pad31wsd";
-		$port = "587";
+		$password = "pass"; //false password
+		$port = "123"; //false port
 
 		$mail = new PHPMailer();
 		
